@@ -1,6 +1,6 @@
 {
   "name": "strapi-plugin-import-export-entries",
-  "version": "1.23.1",
+  "version": "1.0.1",
   "description": "Import/Export data from and to your database in just few clicks.",
   "strapi": {
     "name": "import-export-entries",
@@ -95,7 +95,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Baboo7/strapi-plugin-import-export-entries.git"
+    "url": "git+https://github.com/echtme/strapi-plugin-import-export-entries.git"
   },
   "bugs": {
     "url": "https://github.com/Baboo7/strapi-plugin-import-export-entries/issues"
